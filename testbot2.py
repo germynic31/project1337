@@ -75,5 +75,3 @@ def callback_inline(call):
 
 # start
 bot.polling(none_stop=True)
-
-print(123)
